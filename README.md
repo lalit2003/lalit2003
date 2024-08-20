@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lalit2003
 - 👀 I’m interested in coding..
 - 🌱 I’m currently learning Python and Java.
+- Developer.
 
 
 <!---
